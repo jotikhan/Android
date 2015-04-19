@@ -1,0 +1,4 @@
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\Term 03\Week24\4.Thu\FlickrWeather\FlickrDemo\bin\Debug\FlickrDemo.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\Term 03\Week24\4.Thu\FlickrWeather\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\Term 03\Week24\4.Thu\FlickrWeather\Components\restsharp-105.0.1.0\lib\android\RestSharp.MonoDroid.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\Term 03\Week24\4.Thu\FlickrWeather\Components\urlimageviewhelper-1.0.4\lib\android\UrlImageViewHelper.dll

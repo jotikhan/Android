@@ -1,0 +1,6 @@
+RugbyNewsDemo.MainActivity;rugbynewsdemo.MainActivity
+RugbyNewsDemo.DataAdapter;rugbynewsdemo.DataAdapter
+RugbyNewsDemo.Article;rugbynewsdemo.Article
+RugbyNewsDemo.Article.HelloWebViewClient;rugbynewsdemo.Article_HelloWebViewClient
+AndroidHUD.ProgressWheel;androidhud.ProgressWheel
+AndroidHUD.ProgressWheel.SpinHandler;androidhud.ProgressWheel_SpinHandler
